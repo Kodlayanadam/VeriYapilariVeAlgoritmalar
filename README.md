@@ -15,6 +15,7 @@
 # B: Big-O gösterimini yazınız.
 
 n+(n-1)+(n-2)...(n-4)+1=[n.(n+1)]/2=(n^2+n)/2
+
 o(n^2)
 
 # C: Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?
