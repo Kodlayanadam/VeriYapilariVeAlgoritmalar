@@ -1,0 +1,2 @@
+# VeriYapilariVeAlgoritmalar
+deneme
